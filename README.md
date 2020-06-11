@@ -1,4 +1,4 @@
-# CS-180-Lab4
+# CS180_Project4
 File I/O Project
 
 This is a project for my Object Oriented Programming class. (CS 180)
